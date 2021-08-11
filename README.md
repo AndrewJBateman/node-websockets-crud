@@ -32,7 +32,7 @@
 
 ## :camera: Screenshots
 
-![Example screenshot](./imgs/todo.png).
+![Example screenshot](./img/todo.png).
 
 ## :signal_strength: Technologies
 
